@@ -16,4 +16,8 @@ With this simple tool (batch script) you disable/enable specified **KAS** settin
 1. Requires a Local Admin User.
 
 > My colleague asked me to make this happen, and I let it happen!
+<<<<<<< HEAD
 > -MySelf
+=======
+> -MySelf
+>>>>>>> 74436168977fb355ba4d7a15620732b38b2b0678
